@@ -1,0 +1,21 @@
+using System.ComponentModel.DataAnnotations;
+
+namespace WarehouseManagement.API.DTOs.Customers;
+
+public class CreateCustomerRequestDto
+{
+    [Required(ErrorMessage = "Tên khách hàng là bắt buộc.")]
+    [StringLength(150, MinimumLength = 2, ErrorMessage = "Tên khách hàng phải từ 2-150 ký tự.")]
+    public string Name { get; set; } = null!;
+
+    [Phone(ErrorMessage = "Số điện thoại không hợp lệ.")]
+    [StringLength(20, ErrorMessage = "Số điện thoại không vượt quá 20 ký tự.")]
+    public string? Phone { get; set; }
+
+    [EmailAddress(ErrorMessage = "Email không hợp lệ.")]
+    [StringLength(100, ErrorMessage = "Email không vượt quá 100 ký tự.")]
+    public string? Email { get; set; }
+
+    [StringLength(250, ErrorMessage = "Địa chỉ không vượt quá 250 ký tự.")]
+    public string? Address { get; set; }
+}

@@ -1,0 +1,2013 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WarehouseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\AuditLogConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\AuditLogConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferDetailConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferDetailConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueDetailConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueDetailConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptDetailConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptDetailConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\StockMovementConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\StockMovementConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\InventoryConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\InventoryConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseLocationConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseLocationConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\CustomerConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\CustomerConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\SupplierConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\SupplierConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\ProductConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\ProductConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\UnitConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\UnitConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\CategoryConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\CategoryConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\FileConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\FileConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\RolePermissionConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\RolePermissionConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\UserRoleConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\UserRoleConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\PermissionConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\PermissionConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\RoleConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\RoleConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\UserConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\Configurations\\UserConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\UserResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Users\\UserResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\CreateUserRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Users\\CreateUserRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\ResetPasswordRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Users\\ResetPasswordRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\UserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\UserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\ProductListDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Products\\ProductListDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\ProductResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Products\\ProductResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\CreateProductRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Products\\CreateProductRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\ProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\ProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Categories\\CategoryResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Categories\\CategoryResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Categories\\CreateCategoryRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Categories\\CreateCategoryRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\CategoryModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\CategoryModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Files\\FileResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Files\\FileResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Files\\FileUploadRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Files\\FileUploadRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\FilterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Common\\FilterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogFilterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogFilterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\CreateStockTransferRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\CreateStockTransferRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\CreateGoodsIssueRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\CreateGoodsIssueRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\CreateGoodsReceiptRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\CreateGoodsReceiptRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementFilterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementFilterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryListDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryListDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryFilterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryFilterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\LocationResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\LocationResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\UpdateLocationRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\UpdateLocationRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\CreateLocationRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\CreateLocationRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Warehouses\\WarehouseResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Warehouses\\WarehouseResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Warehouses\\UpdateWarehouseRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Warehouses\\UpdateWarehouseRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Warehouses\\CreateWarehouseRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Warehouses\\CreateWarehouseRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Customers\\CustomerResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Customers\\CustomerResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Customers\\UpdateCustomerRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Customers\\UpdateCustomerRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Customers\\CreateCustomerRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Customers\\CreateCustomerRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Suppliers\\SupplierResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Suppliers\\SupplierResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Suppliers\\UpdateSupplierRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Suppliers\\UpdateSupplierRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Suppliers\\CreateSupplierRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Suppliers\\CreateSupplierRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Units\\UnitResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Units\\UnitResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Units\\UpdateUnitRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Units\\UpdateUnitRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Units\\CreateUnitRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Units\\CreateUnitRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Categories\\UpdateCategoryRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Categories\\UpdateCategoryRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\NH\u1EACT K\u00DD D\u1EF0 \u00C1N.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NH\u1EACT K\u00DD D\u1EF0 \u00C1N.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\UpdateProductRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Products\\UpdateProductRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Permissions\\PermissionResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Permissions\\PermissionResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\AssignPermissionsRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Roles\\AssignPermissionsRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\RoleResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Roles\\RoleResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\UpdateRoleRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Roles\\UpdateRoleRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\CreateRoleRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Roles\\CreateRoleRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\UserListDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Users\\UserListDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\UpdateUserRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Users\\UpdateUserRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\FileModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\FileModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\ForgotPasswordRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Auth\\ForgotPasswordRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\ChangePasswordRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Auth\\ChangePasswordRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\SortDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Common\\SortDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\PagedResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Common\\PagedResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\PaginationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Common\\PaginationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\ApiResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\DTOs\\Common\\ApiResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\AuditLogModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\AuditLogModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\NotificationModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\NotificationModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\SerialNumberModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\SerialNumberModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\BatchModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\BatchModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StocktakeDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\StocktakeDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StocktakeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\StocktakeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StockTransferDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\StockTransferDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StockTransferModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\StockTransferModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsIssueDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\GoodsIssueDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsIssueModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\GoodsIssueModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsReceiptDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\GoodsReceiptDetailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsReceiptModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\GoodsReceiptModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StockMovementModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\StockMovementModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\nventoryModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\nventoryModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\WarehouseLocationModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\WarehouseLocationModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\WarehouseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\WarehouseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\CustomerModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\CustomerModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\SupplierModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\SupplierModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\UnitModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\UnitModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\RolePermissionModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\RolePermissionModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\UserRoleModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\UserRoleModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\PermissionModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\PermissionModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\RoleModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Models\\RoleModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\WarehouseManagement.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuditLogConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\AuditLogConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\AuditLogConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\AuditLogConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\AuditLogConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:50:10.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockTransferDetailConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferDetailConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferDetailConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferDetailConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:49:55.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockTransferConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\StockTransferConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:49:37.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoodsIssueDetailConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueDetailConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueDetailConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueDetailConfiguration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:49:20.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoodsIssueConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsIssueConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:48:57.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoodsReceiptDetailConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptDetailConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptDetailConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptDetailConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:48:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoodsReceiptConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\GoodsReceiptConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:48:25.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockMovementConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\StockMovementConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\StockMovementConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\StockMovementConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\StockMovementConfiguration.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:47:35.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\InventoryConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\InventoryConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\InventoryConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\InventoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:46:30.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WarehouseLocationConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseLocationConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseLocationConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseLocationConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseLocationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:46:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WarehouseConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\WarehouseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:45:31.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:44:07.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\SupplierConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\SupplierConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\SupplierConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\SupplierConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:43:51.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:43:32.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\UnitConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\UnitConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\UnitConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\UnitConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:42:39.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:41:23.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\FileConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\FileConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\FileConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\FileConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:40:59.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RolePermissionConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\RolePermissionConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\RolePermissionConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\RolePermissionConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\RolePermissionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:39:08.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:38:33.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PermissionConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\PermissionConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\PermissionConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\PermissionConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\PermissionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:38:13.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:37:30.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:27:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:17:20.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:23:38.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:23:20.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Users\\UserResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\UserResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Users\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:09:49.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateUserRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\CreateUserRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Users\\CreateUserRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\CreateUserRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Users\\CreateUserRequestDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:56:49.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResetPasswordRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\ResetPasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Users\\ResetPasswordRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\ResetPasswordRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Users\\ResetPasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:10:44.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\UserModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\UserModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\UserModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T07:16:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductListDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\ProductListDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Products\\ProductListDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\ProductListDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Products\\ProductListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:18:28.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Products\\ProductResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\ProductResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Products\\ProductResponseDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:18:07.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateProductRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\CreateProductRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Products\\CreateProductRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\CreateProductRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Products\\CreateProductRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:17:28.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\ProductModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:18:41.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Categories\\CategoryResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Categories\\CategoryResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Categories\\CategoryResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Categories\\CategoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:25:46.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateCategoryRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Categories\\CreateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Categories\\CreateCategoryRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Categories\\CreateCategoryRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Categories\\CreateCategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:22:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\CategoryModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T08:19:55.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FileResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Files\\FileResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Files\\FileResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Files\\FileResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Files\\FileResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:50:24.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FileUploadRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Files\\FileUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Files\\FileUploadRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Files\\FileUploadRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Files\\FileUploadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:49:54.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuditLogResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:49:01.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuditLogFilterDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogFilterDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogFilterDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogFilterDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\AuditLogs\\AuditLogFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:48:12.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\FilterDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Common\\FilterDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\FilterDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Common\\FilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:20:06.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StockTransferResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferResponseDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:46:35.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateStockTransferRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\CreateStockTransferRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\CreateStockTransferRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\CreateStockTransferRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\CreateStockTransferRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:46:22.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StockTransferDetailDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferDetailDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferDetailDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferDetailDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\StockTransfers\\StockTransferDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:46:08.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GoodsIssueResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueResponseDto.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:45:13.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateGoodsIssueRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\CreateGoodsIssueRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\CreateGoodsIssueRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\CreateGoodsIssueRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\CreateGoodsIssueRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:44:30.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GoodsIssueDetailDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueDetailDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueDetailDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueDetailDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\GoodsIssues\\GoodsIssueDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:44:14.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GoodsReceiptResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptResponseDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:42:55.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateGoodsReceiptRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\CreateGoodsReceiptRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\CreateGoodsReceiptRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\CreateGoodsReceiptRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\CreateGoodsReceiptRequestDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:42:16.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GoodsReceiptDetailDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptDetailDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptDetailDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptDetailDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts\\GoodsReceiptDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:42:00.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StockMovementResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementResponseDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:40:41.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "StockMovementFilterDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementFilterDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementFilterDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementFilterDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\StockMovements\\StockMovementFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:40:24.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "InventoryListDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryListDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryListDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryListDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:38:55.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "InventoryResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:38:01.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "InventoryFilterDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryFilterDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryFilterDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryFilterDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Inventory\\InventoryFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:37:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LocationResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\LocationResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\LocationResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\LocationResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\LocationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:36:12.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateLocationRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\UpdateLocationRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\UpdateLocationRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\UpdateLocationRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\UpdateLocationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:35:51.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateLocationRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\CreateLocationRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\CreateLocationRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\CreateLocationRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\WarehouseLocations\\CreateLocationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:35:32.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "WarehouseResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Warehouses\\WarehouseResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Warehouses\\WarehouseResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Warehouses\\WarehouseResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Warehouses\\WarehouseResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:33:52.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UpdateWarehouseRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Warehouses\\UpdateWarehouseRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Warehouses\\UpdateWarehouseRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Warehouses\\UpdateWarehouseRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Warehouses\\UpdateWarehouseRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:33:27.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateWarehouseRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Warehouses\\CreateWarehouseRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Warehouses\\CreateWarehouseRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Warehouses\\CreateWarehouseRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Warehouses\\CreateWarehouseRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:33:06.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CustomerResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Customers\\CustomerResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Customers\\CustomerResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Customers\\CustomerResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Customers\\CustomerResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:32:08.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateCustomerRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Customers\\UpdateCustomerRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Customers\\UpdateCustomerRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Customers\\UpdateCustomerRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Customers\\UpdateCustomerRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:31:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateCustomerRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Customers\\CreateCustomerRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Customers\\CreateCustomerRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Customers\\CreateCustomerRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Customers\\CreateCustomerRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:31:38.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SupplierResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Suppliers\\SupplierResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Suppliers\\SupplierResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Suppliers\\SupplierResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Suppliers\\SupplierResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:30:45.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UpdateSupplierRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Suppliers\\UpdateSupplierRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Suppliers\\UpdateSupplierRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Suppliers\\UpdateSupplierRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Suppliers\\UpdateSupplierRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:30:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CreateSupplierRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Suppliers\\CreateSupplierRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Suppliers\\CreateSupplierRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Suppliers\\CreateSupplierRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Suppliers\\CreateSupplierRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:30:14.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UnitResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Units\\UnitResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Units\\UnitResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Units\\UnitResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Units\\UnitResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:28:37.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UpdateUnitRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Units\\UpdateUnitRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Units\\UpdateUnitRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Units\\UpdateUnitRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Units\\UpdateUnitRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:28:21.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CreateUnitRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Units\\CreateUnitRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Units\\CreateUnitRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Units\\CreateUnitRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Units\\CreateUnitRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:28:04.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UpdateCategoryRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Categories\\UpdateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Categories\\UpdateCategoryRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Categories\\UpdateCategoryRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Categories\\UpdateCategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:25:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "NH\u1EACT K\u00DD D\u1EF0 \u00C1N.md",
+              "DocumentMoniker": "D:\\WarehouseManagement\\NH\u1EACT K\u00DD D\u1EF0 \u00C1N.md",
+              "RelativeDocumentMoniker": "NH\u1EACT K\u00DD D\u1EF0 \u00C1N.md",
+              "ToolTip": "D:\\WarehouseManagement\\NH\u1EACT K\u00DD D\u1EF0 \u00C1N.md",
+              "RelativeToolTip": "NH\u1EACT K\u00DD D\u1EF0 \u00C1N.md",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAANUBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-20T08:06:45.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UpdateProductRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\UpdateProductRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Products\\UpdateProductRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Products\\UpdateProductRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Products\\UpdateProductRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:17:50.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PermissionResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Permissions\\PermissionResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Permissions\\PermissionResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Permissions\\PermissionResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Permissions\\PermissionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:15:14.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AssignPermissionsRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\AssignPermissionsRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Roles\\AssignPermissionsRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\AssignPermissionsRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Roles\\AssignPermissionsRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:16:54.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RoleResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\RoleResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Roles\\RoleResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\RoleResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Roles\\RoleResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:15:58.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UpdateRoleRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\UpdateRoleRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Roles\\UpdateRoleRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\UpdateRoleRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Roles\\UpdateRoleRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:15:20.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CreateRoleRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\CreateRoleRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Roles\\CreateRoleRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Roles\\CreateRoleRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Roles\\CreateRoleRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:15:04.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UserListDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\UserListDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Users\\UserListDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\UserListDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Users\\UserListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:10:24.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UpdateUserRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\UpdateUserRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Users\\UpdateUserRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Users\\UpdateUserRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Users\\UpdateUserRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:05:45.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "FileModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\FileModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\FileModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\FileModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\FileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:40:32.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ForgotPasswordRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\ForgotPasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Auth\\ForgotPasswordRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\ForgotPasswordRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Auth\\ForgotPasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:43:49.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ChangePasswordRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\ChangePasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Auth\\ChangePasswordRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\ChangePasswordRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Auth\\ChangePasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:43:22.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "RefreshTokenResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:43:02.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:33:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "PagedResultDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\PagedResultDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Common\\PagedResultDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\PagedResultDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Common\\PagedResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:20:44.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "SortDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\SortDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Common\\SortDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\SortDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Common\\SortDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:19:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Common\\PaginationDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\PaginationDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Common\\PaginationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:19:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ApiResponseDto.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\ApiResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\DTOs\\Common\\ApiResponseDto.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\DTOs\\Common\\ApiResponseDto.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\DTOs\\Common\\ApiResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:18:13.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "AuditLogModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\AuditLogModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\AuditLogModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\AuditLogModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\AuditLogModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:08:14.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "NotificationModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\NotificationModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\NotificationModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\NotificationModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\NotificationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:07:33.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "SerialNumberModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\SerialNumberModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\SerialNumberModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\SerialNumberModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\SerialNumberModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:07:01.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "BatchModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\BatchModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\BatchModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\BatchModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\BatchModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:06:31.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "StocktakeDetailModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StocktakeDetailModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\StocktakeDetailModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StocktakeDetailModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\StocktakeDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:06:00.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "StocktakeModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StocktakeModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\StocktakeModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StocktakeModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\StocktakeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:05:31.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "InventoryAdjustmentDetailModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentDetailModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentDetailModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentDetailModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:05:06.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "InventoryAdjustmentModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\InventoryAdjustmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T07:03:47.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "StockTransferDetailModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StockTransferDetailModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\StockTransferDetailModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StockTransferDetailModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\StockTransferDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:58:26.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "StockTransferModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StockTransferModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\StockTransferModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StockTransferModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\StockTransferModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:57:51.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "GoodsIssueDetailModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsIssueDetailModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\GoodsIssueDetailModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsIssueDetailModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\GoodsIssueDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:56:40.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "GoodsIssueModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsIssueModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\GoodsIssueModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsIssueModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\GoodsIssueModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:56:15.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "GoodsReceiptDetailModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsReceiptDetailModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\GoodsReceiptDetailModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsReceiptDetailModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\GoodsReceiptDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:55:47.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "GoodsReceiptModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsReceiptModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\GoodsReceiptModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\GoodsReceiptModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\GoodsReceiptModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:54:08.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "StockMovementModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StockMovementModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\StockMovementModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\StockMovementModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\StockMovementModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:52:39.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "nventoryModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\nventoryModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\nventoryModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\nventoryModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\nventoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:52:09.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "WarehouseLocationModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\WarehouseLocationModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\WarehouseLocationModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\WarehouseLocationModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\WarehouseLocationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:50:36.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "WarehouseModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\WarehouseModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\WarehouseModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\WarehouseModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\WarehouseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:49:21.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\CustomerModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\CustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:17:19.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "SupplierModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\SupplierModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\SupplierModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\SupplierModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\SupplierModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:06:07.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "UnitModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\UnitModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\UnitModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\UnitModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\UnitModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:03:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "RolePermissionModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\RolePermissionModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\RolePermissionModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\RolePermissionModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\RolePermissionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T08:09:10.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "UserRoleModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\UserRoleModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\UserRoleModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\UserRoleModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\UserRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T08:12:31.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "PermissionModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\PermissionModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\PermissionModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\PermissionModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\PermissionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T07:05:18.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\RoleModel.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Models\\RoleModel.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Models\\RoleModel.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Models\\RoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:54:35.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\Program.cs",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\Program.cs",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T07:55:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\appsettings.Development.json",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\appsettings.Development.json",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T07:54:51.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\WarehouseManagement.API\\appsettings.json",
+              "ToolTip": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\appsettings.json",
+              "RelativeToolTip": "backend\\WarehouseManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T07:54:31.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

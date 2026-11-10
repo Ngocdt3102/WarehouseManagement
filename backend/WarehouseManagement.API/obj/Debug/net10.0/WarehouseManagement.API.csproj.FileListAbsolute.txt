@@ -1,0 +1,8 @@
+D:\WarehouseManagement\backend\WarehouseManagement.API\obj\Debug\net10.0\WarehouseManagement.API.csproj.AssemblyReference.cache
+D:\WarehouseManagement\backend\WarehouseManagement.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\WarehouseManagement\backend\WarehouseManagement.API\obj\Debug\net10.0\WarehouseManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\WarehouseManagement\backend\WarehouseManagement.API\obj\Debug\net10.0\WarehouseManagement.API.AssemblyInfoInputs.cache
+D:\WarehouseManagement\backend\WarehouseManagement.API\obj\Debug\net10.0\WarehouseManagement.API.AssemblyInfo.cs
+D:\WarehouseManagement\backend\WarehouseManagement.API\obj\Debug\net10.0\WarehouseManagement.API.csproj.CoreCompileInputs.cache
+D:\WarehouseManagement\backend\WarehouseManagement.API\obj\Debug\net10.0\WarehouseManagement.API.MvcApplicationPartsAssemblyInfo.cs
+D:\WarehouseManagement\backend\WarehouseManagement.API\obj\Debug\net10.0\WarehouseManagement.API.MvcApplicationPartsAssemblyInfo.cache

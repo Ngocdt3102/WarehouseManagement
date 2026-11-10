@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\WarehouseManagement.API",
+    "\\backend\\WarehouseManagement.API\\DTOs\\AuditLogs",
+    "\\backend\\WarehouseManagement.API\\DTOs\\Files",
+    "\\backend\\WarehouseManagement.API\\DTOs\\GoodsIssues",
+    "\\backend\\WarehouseManagement.API\\DTOs\\GoodsReceipts",
+    "\\backend\\WarehouseManagement.API\\DTOs\\Inventory",
+    "\\backend\\WarehouseManagement.API\\DTOs\\StockMovements",
+    "\\backend\\WarehouseManagement.API\\DTOs\\StockTransfers"
+  ],
+  "SelectedNode": "\\backend\\WarehouseManagement.API\\Data",
+  "PreviewInSolutionExplorer": false
+}

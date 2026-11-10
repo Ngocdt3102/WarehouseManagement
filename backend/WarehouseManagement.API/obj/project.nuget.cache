@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgIM0drFyKU=",
+  "success": true,
+  "projectFilePath": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\WarehouseManagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\WarehouseManagement.API.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\WarehouseManagement\\backend\\WarehouseManagement.API\\WarehouseManagement.API.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
